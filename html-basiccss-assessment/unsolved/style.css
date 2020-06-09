@@ -1,0 +1,34 @@
+body {
+  background-color: #79b9c6;
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  font-family: "Arial";
+  font-weight: bold;
+}
+#corner {
+  color: white;
+  text-transform: uppercase;
+}
+#first {
+  color: navy;
+  font-size: 11px;
+  text-align: center;
+}
+#main {
+  color: white;
+  font-size: 65px;
+  text-align: center;
+}
+#boxed {
+  align: center;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20px;
+  width: 120px;
+  color: white;
+  font-size: 11px;
+  text-align: center;
+  border: 1.5px solid white;
+  box-sizing: border-box;
+}
