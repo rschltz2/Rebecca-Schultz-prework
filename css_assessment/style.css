@@ -1,0 +1,39 @@
+body {
+    color: black;
+    text-align: center;
+}
+
+header {
+    background: gray;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#left {
+    background: blue;
+    float: left;
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    margin-bottom: 30px;
+    line-height: 400px;
+    
+}
+
+#right {
+    background: red;
+    float: right;
+    width: 25%;
+    height: 400px;
+    text-align: center;
+    line-height: 400px;
+    margin-bottom: 30px;
+}
+
+footer {
+    background: green;
+    width: 100%;
+    clear: both;
+    bottom: 0;
+    position: absolute;
+}
